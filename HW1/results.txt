@@ -1,0 +1,184 @@
+Basic k-NN classifier
+N:  100  k:  1
+testknn:  5.868150472640991  s 
+Correct:  2157  Incorrect:  2843  Total:  5000
+Accuracy:  43.14 %
+
+Basic k-NN classifier
+N:  1000  k:  1
+testknn:  54.89410996437073  s 
+Correct:  3870  Incorrect:  1130  Total:  5000
+Accuracy:  77.4 %
+
+Basic k-NN classifier
+N:  2000  k:  1
+testknn:  102.65151929855347  s 
+Correct:  4163  Incorrect:  837  Total:  5000
+Accuracy:  83.26 %
+
+Basic k-NN classifier
+N:  5000  k:  1
+testknn:  275.93485260009766  s 
+Correct:  4553  Incorrect:  447  Total:  5000
+Accuracy:  91.06 %
+
+Basic k-NN classifier
+N:  10000  k:  1
+testknn:  418.53215742111206  s 
+Correct:  4629  Incorrect:  371  Total:  5000
+Accuracy:  92.58 %
+
+Basic k-NN classifier
+N:  15000  k:  1
+testknn:  836.6354584693909  s 
+Correct:  4777  Incorrect:  223  Total:  5000
+Accuracy:  95.54 %
+________________________________________________
+
+Basic k-NN classifier
+N:  100  k:  3
+testknn:  5.887508869171143  s 
+Correct:  1597  Incorrect:  3403  Total:  5000
+Accuracy:  31.94 %_
+
+Basic k-NN classifier
+N:  1000  k:  3
+testknn:  54.371514081954956  s 
+Correct:  3517  Incorrect:  1483  Total:  5000
+Accuracy:  70.34 %
+
+Basic k-NN classifier
+N:  2000  k:  3
+testknn:  101.99717712402344  s 
+Correct:  3982  Incorrect:  1018  Total:  5000
+Accuracy:  79.64 %
+
+Basic k-NN classifier
+N:  5000  k:  3
+testknn:  273.4147524833679  s 
+Correct:  4490  Incorrect:  510  Total:  5000
+Accuracy:  89.8 %
+
+Basic k-NN classifier
+N:  10000  k:  3
+testknn:  410.62530279159546  s 
+Correct:  4591  Incorrect:  409  Total:  5000
+Accuracy:  91.82000000000001 %
+
+Basic k-NN classifier
+N:  15000  k:  3
+testknn:  825.0659494400024  s 
+Correct:  4741  Incorrect:  259  Total:  5000
+Accuracy:  94.82000000000001 %
+________________________________________________
+
+Basic k-NN classifier
+N:  100  k:  5
+testknn:  5.974486827850342  s 
+Correct:  1517  Incorrect:  3483  Total:  5000
+Accuracy:  30.34 %
+
+Basic k-NN classifier
+N:  1000  k:  5
+testknn:  54.57301187515259  s 
+Correct:  3391  Incorrect:  1609  Total:  5000
+Accuracy:  67.82000000000001 %
+
+Basic k-NN classifier
+N:  2000  k:  5
+testknn:  102.01769423484802  s 
+Correct:  3887  Incorrect:  1113  Total:  5000
+Accuracy:  77.74 %
+
+Basic k-NN classifier
+N:  5000  k:  5
+testknn:  273.64654421806335  s 
+Correct:  4427  Incorrect:  573  Total:  5000
+Accuracy:  88.53999999999999 %
+
+Basic k-NN classifier
+N:  10000  k:  5
+testknn:  410.0375509262085  s 
+Correct:  4561  Incorrect:  439  Total:  5000
+Accuracy:  91.22 %
+
+Basic k-NN classifier
+N:  15000  k:  5
+testknn:  823.6674873828888  s 
+Correct:  4736  Incorrect:  264  Total:  5000
+Accuracy:  94.72 %
+
+________________________________________________
+Basic k-NN classifier
+N:  100  k:  7
+testknn:  6.084561109542847  s 
+Correct:  1479  Incorrect:  3521  Total:  5000
+Accuracy:  29.580000000000002 %
+
+Basic k-NN classifier
+N:  1000  k:  7
+testknn:  54.54578399658203  s 
+Correct:  3252  Incorrect:  1748  Total:  5000
+Accuracy:  65.03999999999999 %
+
+Basic k-NN classifier
+N:  2000  k:  7
+testknn:  102.28571462631226  s 
+Correct:  3795  Incorrect:  1205  Total:  5000
+Accuracy:  75.9 %
+
+Basic k-NN classifier
+N:  5000  k:  7
+testknn:  273.1449613571167  s 
+Correct:  4377  Incorrect:  623  Total:  5000
+Accuracy:  87.53999999999999 %
+
+Basic k-NN classifier
+N:  10000  k:  7
+testknn:  410.2950813770294  s 
+Correct:  4547  Incorrect:  453  Total:  5000
+Accuracy:  90.94 %
+
+Basic k-NN classifier
+N:  15000  k:  7
+testknn:  824.3981103897095  s 
+Correct:  4733  Incorrect:  267  Total:  5000
+Accuracy:  94.66 %
+________________________________________________
+Basic k-NN classifier
+N:  100  k:  9
+testknn:  6.167685031890869  s 
+Correct:  1434  Incorrect:  3566  Total:  5000
+Accuracy:  28.68 %
+
+Basic k-NN classifier
+N:  1000  k:  9
+testknn:  54.675288677215576  s 
+Correct:  3181  Incorrect:  1819  Total:  5000
+Accuracy:  63.62 %
+
+Basic k-NN classifier
+N:  2000  k:  9
+testknn:  102.29850053787231  s 
+Correct:  3717  Incorrect:  1283  Total:  5000
+Accuracy:  74.33999999999999 %
+
+Basic k-NN classifier
+N:  5000  k:  9
+testknn:  273.57415795326233  s 
+Correct:  4343  Incorrect:  657  Total:  5000
+Accuracy:  86.86 %
+
+Basic k-NN classifier
+N:  10000  k:  9
+testknn:  410.32006907463074  s 
+Correct:  4512  Incorrect:  488  Total:  5000
+Accuracy:  90.24 %
+
+Basic k-NN classifier
+N:  15000  k:  9
+testknn:  824.6515004634857  s 
+Correct:  4708  Incorrect:  292  Total:  5000
+Accuracy:  94.16 %
+________________________________________________
+
